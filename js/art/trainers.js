@@ -1,6 +1,6 @@
 /* =============================================================
  *  trainers.js  —  Verdal: A Tamer's Journey
- *  Original vector artwork by James K (see CREDITS.md).
+ *  Original vector artwork by James (see CREDITS.md).
  *  The three tamers were hand-drawn in p5.js and renamed to
  *  original characters:
  *      Rex   (was the red-cap tamer)

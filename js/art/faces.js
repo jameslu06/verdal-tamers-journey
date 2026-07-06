@@ -1,6 +1,6 @@
 /* =============================================================
  *  faces.js  —  Verdal: A Tamer's Journey
- *  Original facial-expression artwork by James K (see CREDITS.md).
+ *  Original facial-expression artwork by James (see CREDITS.md).
  *  Five expressions per tamer: Happy, Neutral, Worried, Surprised,
  *  Fainted. Called by the trainer draw functions based on the face
  *  index globals, and used to make tamers emote during battle.

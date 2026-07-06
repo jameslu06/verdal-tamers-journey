@@ -2,7 +2,7 @@
 
 ## Original artwork & concept
 
-**James K** — created the original *Customize Your Character* p5.js project: all of the hand-drawn vector artwork for the three tamers and the four creatures, along with the facial expressions and the outfit/color customization system. That project is the foundation this game is built on, and the characters you see here are James K's drawings, carried over and repositioned for a top-down RPG.
+**James** — created the original *Customize Your Character* p5.js project: all of the hand-drawn vector artwork for the three tamers and the four creatures, along with the facial expressions and the outfit/color customization system. That project is the foundation this game is built on, and the characters you see here are James' drawings, carried over and repositioned for a top-down RPG.
 
 ## Version 2 — *Verdal: A Tamer's Journey*
 
@@ -27,4 +27,4 @@ All sound effects are generated at runtime with p5.sound oscillators. No audio f
 
 ---
 
-If you build on this further, please keep this credit to James K for the original characters and customizer.
+If you build on this further, please keep this credit to James for the original characters and customizer.
