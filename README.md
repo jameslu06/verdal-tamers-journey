@@ -2,6 +2,8 @@
 
 A little top-down creature-taming RPG built with [p5.js](https://p5js.org/). Explore **Verdal Isle**, walk through tall grass to meet wild **Kith**, battle them in turn-based fights, and toss a **Bind Orb** to add them to your team. It grew out of an earlier "dress-up" character-customizer — the hand-drawn characters from that project live on here as the game's tamers and starter creatures.
 
+Play the game online: https://jameslu06.github.io/verdal-tamers-journey/
+
 > Think classic handheld monster RPGs — an overworld, random encounters, type match-ups, catching, leveling — but with its own names, creatures, moves, and world.
 
 ---
