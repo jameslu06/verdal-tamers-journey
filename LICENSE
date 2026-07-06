@@ -1,7 +1,6 @@
 MIT License
 
-Copyright (c) 2026 The "Verdal: A Tamer's Journey" contributors
-(original characters and customizer by James)
+Copyright (c) 2026 James 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -22,11 +21,26 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ---------------------------------------------------------------------------
-NOTE ON ARTWORK
+ARTWORK AND INSPIRATION NOTICE
 
-This MIT license covers the source code. The creature and tamer artwork is
-original work carried over from the earlier customizer project. The silhouettes
-of the four starter creatures were originally sketched with well-known
-franchise creatures in mind; if you intend to distribute this game publicly or
-commercially, consider redrawing those designs to be clearly distinct. See
-README.md and CREDITS.md for details.
+This MIT license applies to the source code and repository materials distributed
+as part of this project.
+
+The tamer artwork used in Verdal: A Tamer's Journey was created by James for an
+earlier character-customizer project and adapted for use in this game.
+
+Some of the creature artwork used in this project was also drawn by James, but
+those creature designs originated as fan-made Pokémon-inspired / Pokémon-derived
+artwork from the earlier customizer project rather than as fully original
+creature concepts.
+
+Verdal: A Tamer's Journey is an unofficial fan-made project inspired by classic
+monster-taming RPGs. Pokémon and related franchise elements are the property of
+Nintendo, Game Freak, and Creatures Inc. This project is not affiliated with or
+endorsed by those companies.
+
+If this project is redistributed publicly beyond personal or educational use,
+or developed commercially, the Pokémon-derived creature artwork should be
+replaced or redesigned into fully original creature designs.
+
+See README.md and CREDITS.md for additional attribution and project notes.
