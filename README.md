@@ -101,15 +101,17 @@ Five types with a small, readable chart:
 
 ---
 
-## Inspiration, artwork, and originality
+## Inspiration and artwork note
 
-*Verdal: A Tamer's Journey* is an **original fan-made project inspired by classic monster-taming RPGs, especially Pokémon**. The overall gameplay structure — exploring an overworld, encountering wild creatures, battling, catching, leveling up, and building a team — is a tribute to that genre.
+*Verdal: A Tamer's Journey* is a fan-made creature-taming RPG inspired by classic monster-catching games, especially Pokémon.
 
-That said, the **world, code, creature names, move names, type chart, battle logic, dialogue, and Verdal setting were created for this project** and are not taken from any official Pokémon game.
+The **game code, map, dialogue, battle systems, progression systems, and Verdal-specific names and mechanics** in this repository were created for this project. However, some of the creature artwork used in the game was adapted from an earlier p5.js character-customizer project by **James** that included **fan-made renderings of Pokémon-inspired / Pokémon-based creature designs**.
 
-The **tamer and creature artwork** used here was originally drawn by **James** for an earlier p5.js character-customizer project, then adapted into this RPG. Some of the four starter-creature silhouettes were first sketched with familiar monster-RPG inspirations in mind. Because of that, if this project is ever expanded for a broader public release, the creature designs should be redrawn further so they are more visually distinct and clearly stand on their own.
+In other words, **James created the drawings and in-game artwork assets used here**, but the underlying inspiration for some creature designs comes from the Pokémon franchise rather than from fully original creature concepts.
 
-**Pokémon is owned by Nintendo / Game Freak / Creatures Inc.** This project is an unofficial student / personal fan work and is not affiliated with or endorsed by those companies.
+**Pokémon and related franchise elements are the property of Nintendo, Game Freak, and Creatures Inc.** This project is an unofficial personal/student fan work and is not affiliated with or endorsed by those companies.
+
+If this project is ever expanded into a broader public release, the creature artwork should be replaced or redesigned into fully original creatures.
 
 ---
 
