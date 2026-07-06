@@ -103,15 +103,17 @@ Five types with a small, readable chart:
 
 ## Inspiration and artwork note
 
-*Verdal: A Tamer's Journey* is a fan-made creature-taming RPG inspired by classic monster-catching games, especially Pokémon.
+Verdal: A Tamer's Journey is a fan-made creature-taming RPG inspired by classic monster-catching games, especially Pokémon.
 
-The **game code, map, dialogue, battle systems, progression systems, and Verdal-specific names and mechanics** in this repository were created for this project. However, some of the creature artwork used in the game was adapted from an earlier p5.js character-customizer project by **James** that included **fan-made renderings of Pokémon-inspired / Pokémon-based creature designs**.
+The game code, systems, world (Verdal Isle), dialogue, battle logic, and progression mechanics are original work created for this project.
 
-In other words, **James created the drawings and in-game artwork assets used here**, but the underlying inspiration for some creature designs comes from the Pokémon franchise rather than from fully original creature concepts.
+Some of the creature artwork used in this game was created by James for an earlier p5.js character-customizer project. Those creature designs are fan-made Pokémon-inspired artworks that were adapted and reused in this version of the game.
 
-**Pokémon and related franchise elements are the property of Nintendo, Game Freak, and Creatures Inc.** This project is an unofficial personal/student fan work and is not affiliated with or endorsed by those companies.
+In other words, James created the in-game drawings and assets, while the creature concepts themselves are influenced by Pokémon-style designs rather than being fully original intellectual property.
 
-If this project is ever expanded into a broader public release, the creature artwork should be replaced or redesigned into fully original creatures.
+Pokémon and related franchise elements are the property of Nintendo, Game Freak, and Creatures Inc. This project is an unofficial personal/student fan project and is not affiliated with or endorsed by those companies.
+
+If this project is ever expanded beyond personal or educational use, the creature artwork should be replaced or redesigned into fully original designs.
 
 ---
 
@@ -119,4 +121,4 @@ If this project is ever expanded into a broader public release, the creature art
 
 Released under the MIT License — see `LICENSE`. Note that the license covers the **code**; please read the artwork note above before reusing the creature designs publicly.
 
-Have fun on Verdal Isle. 🌿
+Have fun on Verdal Isle. 
