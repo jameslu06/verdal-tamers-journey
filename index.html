@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Verdal: A Tamer's Journey</title>
+
+  <!-- Fonts (best-effort; the game falls back to system fonts offline) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Courgette&family=Andada+Pro:wght@400;600;700&display=swap" rel="stylesheet" />
+
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <main id="stage">
+    <div id="game"></div>
+    <p id="hint">Tip: run this from a local server (see README) so audio and saving work smoothly.</p>
+  </main>
+
+  <!-- p5 core + sound (local copies for full offline play) -->
+  <script src="lib/p5.js"></script>
+  <script src="lib/p5.sound.min.js"></script>
+
+  <!-- game modules — ORDER MATTERS -->
+  <script src="js/config.js"></script>
+  <script src="js/data.js"></script>
+  <script src="js/audio.js"></script>
+  <script src="js/ui.js"></script>
+  <script src="js/game.js"></script>
+
+  <!-- hand-drawn art (originally by James K, renamed for v2) -->
+  <script src="js/art/faces.js"></script>
+  <script src="js/art/creatures.js"></script>
+  <script src="js/art/trainers.js"></script>
+
+  <!-- scenes -->
+  <script src="js/scenes/menus.js"></script>
+  <script src="js/scenes/overworld.js"></script>
+  <script src="js/scenes/battle.js"></script>
+
+  <!-- entry point (last) -->
+  <script src="js/sketch.js"></script>
+</body>
+</html>
