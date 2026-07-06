@@ -39,7 +39,7 @@ In battle, use the arrow keys to move the cursor and **Space/Enter** to confirm.
 
 Because the game loads several script files and saves progress, open it from a **local web server** rather than double-clicking `index.html` (browsers block some features on the `file://` protocol).
 
-**Option A — Python (already on most machines):**
+**Option A — Python: **
 
 ```bash
 cd verdal-tamers-journey
@@ -54,7 +54,7 @@ Then open <http://localhost:8000> in your browser.
 npx serve .
 ```
 
-**Option C — GitHub Pages:** push this folder to a repo, enable Pages on the `main` branch (root), and it will be playable at your Pages URL. No build step is required.
+**Option C — GitHub Pages:** 
 
 Play the game online: https://jameslu06.github.io/verdal-tamers-journey/
 
