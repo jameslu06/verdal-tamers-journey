@@ -101,11 +101,15 @@ Five types with a small, readable chart:
 
 ---
 
-## A note on the artwork & originality
+## Inspiration, artwork, and originality
 
-The creatures and tamers are **original hand-drawn renderings** created for the earlier customizer project (see `CREDITS.md`). The world, names, creatures, moves, types, and battle math here were written fresh for this version and are not copied from any existing game.
+*Verdal: A Tamer's Journey* is an **original fan-made project inspired by classic monster-taming RPGs, especially Pokémon**. The overall gameplay structure — exploring an overworld, encountering wild creatures, battling, catching, leveling up, and building a team — is a tribute to that genre.
 
-That said, the *silhouettes* of the four starter creatures were originally sketched with well-known franchise creatures in mind. If you ever plan to release this publicly or commercially, it's worth redrawing them to be more visually distinct so there's no ambiguity about originality. Everything else (code, data, names) is original and yours to build on.
+That said, the **world, code, creature names, move names, type chart, battle logic, dialogue, and Verdal setting were created for this project** and are not taken from any official Pokémon game.
+
+The **tamer and creature artwork** used here was originally drawn by **James** for an earlier p5.js character-customizer project, then adapted into this RPG. Some of the four starter-creature silhouettes were first sketched with familiar monster-RPG inspirations in mind. Because of that, if this project is ever expanded for a broader public release, the creature designs should be redrawn further so they are more visually distinct and clearly stand on their own.
+
+**Pokémon is owned by Nintendo / Game Freak / Creatures Inc.** This project is an unofficial student / personal fan work and is not affiliated with or endorsed by those companies.
 
 ---
 
