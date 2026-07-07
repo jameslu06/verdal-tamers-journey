@@ -2,7 +2,7 @@
 
 ## Original project foundation
 
-**James** created the earlier p5.js character-customizer project that this game builds on. That earlier project provided the visual and structural base for *Verdal: A Tamer's Journey*, including:
+**jameslu06** created the earlier p5.js character-customizer project that this game builds on. That earlier project provided the visual and structural base for *Verdal: A Tamer's Journey*, including:
 
 - the original tamer artwork
 - facial-expression artwork and face variations
@@ -16,7 +16,7 @@ Those assets were reused, reorganized, and adapted as part of *Verdal: A Tamer's
 
 ## Artwork note
 
-The **tamer artwork** in this repository was drawn by **James** and is original to the earlier customizer project.
+The **tamer artwork** in this repository was drawn by **jameslu06** and is original to the earlier customizer project.
 
 Some of the **creature artwork** used in this project was also drawn by **James**, but those creature designs began as **fan-made Pokémon-inspired / Pokémon-derived artwork** from the earlier customizer project rather than as fully original creature concepts. In other words, James created the actual drawings and in-game art assets used here, but the underlying inspiration for some creature designs comes from the Pokémon franchise.
 
@@ -64,6 +64,6 @@ All sound effects are generated at runtime using p5.sound oscillators. No third-
 
 ## Reuse note
 
-If you build on this project further, please keep credit to **James** for the original tamer artwork, the earlier character-customizer project, and the artwork assets carried over from that project.
+If you build on this project further, please keep credit to **jameslu06** for the original tamer artwork, the earlier character-customizer project, and the artwork assets carried over from that project.
 
 If the project is ever published more broadly, distributed commercially, or developed into a fully original game, the Pokémon-derived creature artwork should be replaced with new original creature designs.
