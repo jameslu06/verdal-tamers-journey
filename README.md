@@ -56,7 +56,9 @@ npx serve .
 
 **Option C — GitHub Pages:** 
 
-Play the game online: https://jameslu06.github.io/verdal-tamers-journey/
+1. Push this folder to a GitHub repository.
+2. **Settings → Pages → Source:** `main` branch, `/ (root)` folder → **Save**.
+3. Your game goes live at `https://<your-username>.github.io/<your-repo-name>/`.
 
 ---
 
